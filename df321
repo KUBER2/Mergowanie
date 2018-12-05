@@ -1,0 +1,23 @@
+[33mcommit f06ceb0ac23c28f3e00a96e31aab67d5e700710c[m[33m ([m[1;36mHEAD -> [m[1;32mfeature/trigonometry[m[33m, [m[1;31morigin/feature/trigonometry[m[33m)[m
+Author: Jakub <jakub.rola@gmail.com>
+Date:   Wed Dec 5 10:51:13 2018 +0100
+
+    Added showSin
+
+[33mcommit bb9e4115c57fa1517d6dafeffaf43d33b7114393[m[33m ([m[1;31morigin/create-Math[m[33m, [m[1;32mfeuter/Item[m[33m, [m[1;32mcreate-Math[m[33m)[m
+Author: Jakub <jakub.rola@gmail.com>
+Date:   Wed Dec 5 10:39:56 2018 +0100
+
+    Added User class
+
+[33mcommit 891ee91c81a33910d0e0dd4900fd1c5891e1d1ba[m
+Author: Jakub <jakub.rola@gmail.com>
+Date:   Wed Dec 5 09:42:21 2018 +0100
+
+    Added MyMath class
+
+[33mcommit 6c93d82e2ed18660dc98ec116d3f98bccbb4152c[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Jakub <jakub.rola@gmail.com>
+Date:   Wed Dec 5 09:21:01 2018 +0100
+
+    init comit
